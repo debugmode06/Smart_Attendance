@@ -1,0 +1,12 @@
+{
+    "roomId": "CMD LAB",
+    "ssid": "LAPTOP-IGFCEJ3S 3033",
+    "fingerprint": {
+        "c0:35:32:1f:2d:e9": -45.0,
+        "00:11:22:33:44:55": -65.0,
+        "aa:bb:cc:dd:ee:ff": -78.0
+    },
+    "createdAt": "2026-02-06T16:50:20+05:30",
+    "numScans": 30,
+    "numAPs": 3
+}

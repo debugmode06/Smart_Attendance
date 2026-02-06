@@ -1,0 +1,27 @@
+export const MOCK_PROFILE_DATA = {
+  pictureUrl: "https://placehold.co/100x100/1e40af/ffffff?text=Student+Pic",
+  name: "Aarav Sharma",
+  dob: "15/05/2006",
+  gender: "Male",
+  fatherName: "Rajesh Sharma",
+  fatherOccupation: "Engineer",
+  motherName: "Priya Sharma",
+  motherOccupation: "Teacher",
+  mobile: "9876543210",
+  email: "aarav.s@vidyatra.edu",
+  address: "H.No. 12, Sector 45, Chandigarh",
+  nationality: "Indian",
+  religion: "Hindu",
+  caste: "General",
+  bloodGroup: "O+",
+  parentMobile: "9000012345",
+  guardianName: "N/A",
+  guardianContact: "N/A",
+  aadharNumber: "XXXX-XXXX-1234",
+  status: "Day Scholar",
+  fees: {
+    school: "₹ 50,000 / Semester",
+    hostel: "N/A (Day Scholar)",
+  },
+};
+
